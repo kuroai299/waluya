@@ -13,39 +13,37 @@ Waluya Akuarium adalah website promosi yang didedikasikan untuk memperkenalkan t
 
 ## Diagram
 
-### Diagram Entitas Relasi (ERD)
+### Diagram Use Case (Use Case Diagram)
 
-![ERD](./public/ERD.png)
+![ERD](./public/UCD.png)
 
 ### Diagram Kelas (Class Diagram)
 
-![ClassD](./public/img/diagram/classDiagram_fix.jpg)
+![ClassD](./public/CD.png)
 
 ### Diagram Aktivitas (Activity Diagram)
 
-![ActivityD](./public/img/diagram/activityDiagram_fix.jpg)
+![ActivityD](./public/AD1.png)
+![ActivityD](./public/AD2.png)
+![ActivityD](./public/AD3.png)
 
-### Diagram Use Case (Use Case Diagram)
+### Diagram Entitas Relasi (ERD)
 
-![UseCaseD](./public/img/diagram/useCase_fix.jpg)
+![UseCaseD](./public/ERD.png)
 
 ## Fitur
 
-### Halaman Sambutan (Welcome Page)
+### Website
 
-Halaman sambutan memberikan pengenalan singkat tentang toko dan layanan yang disediakan. Halaman ini bertujuan untuk menarik perhatian pengunjung dan memberi mereka gambaran umum mengenai toko ikan Waluya Akuarium.
+![Website](./public/web.mp4)
 
-![WelcomeP](./public/img/ss/Welcome.jpg)
+### Kode
 
-### Halaman Utama (Home Page)
-
-Halaman utama menampilkan produk unggulan, kategori ikan, serta informasi terkait layanan dan fasilitas toko. Desain halaman ini fokus pada pengalaman pengguna yang mudah untuk menavigasi produk yang ditawarkan dan mendapatkan informasi yang relevan dengan cepat.
-
-![HomeP](./public/img/ss/Home.jpg)
+![Kode](./public/kode.mp4)
 
 ## Teknologi yang Digunakan
 
-- **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL
+- **Frontend**: HTML, CSS, JavaScript 
+- **Backend**: Django
+- **Database**: DQLite
 - **Version Control**: Git
