@@ -7,9 +7,11 @@ Waluya Akuarium adalah website promosi yang didedikasikan untuk memperkenalkan t
 
 ## Tim Kami
 
-- **Aisyah (G6401221017)** - Backend Developer, Website Integrator
-- **Budi (G6401221006)** - UI/UX Designer, Frontend Developer
-- **Citra (G6401221094)** - UI/UX Designer, Frontend Developer
+- **Qurrotul 'Aini (G6401221070)** - Backend Developer
+- **Aulia Rahmasiyfa (G6401231033)** - Backend Developer
+- **Aliya Shahira (G6401231116)** - Frontend Developer
+- **Felicia (G6401231060)** - Frontend Developer
+- **Muhammad Abyan (G6401231078)** - UI/UX Designer
 
 ## Diagram
 
