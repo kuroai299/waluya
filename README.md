@@ -37,7 +37,7 @@ Waluya Akuarium adalah website promosi yang didedikasikan untuk memperkenalkan t
 
 ### Website
 
-![Website](./public/web.mp4)
+[![Watch the video](https://img.youtube.com/vi/[VIDEO_ID](https://youtu.be/EWCD64oZ0lw)/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ### Kode
 
